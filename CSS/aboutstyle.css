@@ -120,7 +120,7 @@ nav ul li a{
 .our1 p {
 	font-size: 20px;
 	margin-top: 10px;
-	line-height:1.5;
+	text-align: justify;
 	
 }
 
@@ -149,6 +149,7 @@ nav ul li a{
 
 .our1 p {
 	font-size: 15px;
+	
 	
 }
 		
@@ -266,7 +267,7 @@ nav ul li a{
 .social-icons a{
 	font-size: 30px;
 	color:inherit;
-	border: 1px solid #eab19b;
+	border: 1px solid  #4c5437;
 	width: 40px;
 	height: 40px;
 	line-height: 38px;
@@ -310,7 +311,7 @@ nav ul li a{
 	margin-top: 15px;
 	text-align: center;
 	font-size: 15px;
-	color: #aaa;
+	color: #4c5437;
 }
 
 
