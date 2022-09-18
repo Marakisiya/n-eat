@@ -5,7 +5,7 @@
 	margin: 0;
 	padding:0 ;
 	box-sizing: border-box;
-    font-family: sans-serif, 'Kaushan Script', cursive;
+    font-family: sans-serif;
 }
 
 	
@@ -127,7 +127,7 @@ nav ul li a{
 	margin:auto;
 	background: #21241a;
 	border-radius: 10px;
-	margin-top: 20em;
+	margin-top: 10em;
 	
 }
 .square h3{
